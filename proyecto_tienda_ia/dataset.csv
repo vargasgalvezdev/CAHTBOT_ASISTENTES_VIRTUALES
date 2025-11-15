@@ -1,0 +1,9 @@
+id,nombre_producto,categoria,precio,descripcion,imagen
+1,Camisa Azul,Ropa,50,"Camisa de algodón, talla M",images/camisa1.jpg
+2,Zapatillas Rojas,Calzado,120,"Zapatillas deportivas, talla 42",images/zapatillas1.jpg
+3,Pantalón Negro,Ropa,70,"Pantalón formal de tela, talla L",images/pantalon1.jpg
+4,Smartphone Phone 17,Electrónica,500,"Teléfono con 128GB de memoria",images/smartphone1.jpg
+5,Audífonos Inalámbricos,Electrónica,80,"Audífonos bluetooth con cancelación de ruido",images/audifonos1.jpg
+6,Reloj Inteligente,Electrónica,200,"Reloj con monitor de actividad y notificaciones",images/reloj1.jpg
+7,Zapatos Formales,Calzado,150,"Zapatos de cuero, elegantes",images/zapatos1.jpg
+8,Gorra Casual,Ropa,25,"Gorra de algodón, ajustable",D:\lab5\proyecto_tienda_ia\images\smartphone1.jpg
